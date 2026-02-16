@@ -1,7 +1,7 @@
 ```
 [readme]
 name=Matt Silverlock
-who=product @ Cloudflare, OSS maintainer, etc
+who=product @ Cloudflare, OSS maintainer, air cooled nerd, &c
 twitter=elithrar
 github=elithrar
 web=https://blog.questionable.services/
